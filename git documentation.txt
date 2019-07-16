@@ -4,12 +4,13 @@ git init -->repository
 git --version
 git status
 git add path
-git config --global 
+git config --global user.name "name"
+git config --global user.email "email@gmail" 
 git commit -m "value"
 git log
 git rm --cached <filename>
 git branch -b branchname
 git branch -D branchname
-git push <repository name><branch name>
+git push <repository name> <branch name>
 git pull <repository name>
-git clone <receivers id><senders url>
+git clone <receivers id> <senders url>
