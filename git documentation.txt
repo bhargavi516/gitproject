@@ -4,7 +4,7 @@ git init -->repository
 git --version
 git status
 git add path
-git config --
+git config --global 
 git commit -m "value"
 git log
 git rm --cached <filename>
