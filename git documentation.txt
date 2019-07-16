@@ -10,4 +10,5 @@ git log
 git rm
 git branch -b branchname
 git branch -D branchname
-git 
+git push <repository name><branch name>
+git pull <repository name>
