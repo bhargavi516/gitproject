@@ -1,0 +1,13 @@
+commands:
+code
+git init -->repository 
+git --version
+git status
+git add path
+git config --
+git commit -m "value"
+git log
+git rm
+git branch -b branchname
+git branch -D branchname
+git 
