@@ -4,10 +4,15 @@ git init -->repository
 git --version
 git status
 git add path
-git config --
+git config --global 
 git commit -m "value"
 git log
-git rm
-git branch -b branchname
+git rm --cached <filename to unstage>
+git checkout -b branchname
 git branch -D branchname
-git 
+git push <repository name> <branch name>
+git pull <repository name>
+git clone <receivers id><senders url>
+git remote add <anyname mostly origin> <git hub repository link>
+git remote -v
+git reset --hard <checkpoin of commit>
