@@ -7,8 +7,9 @@ git add path
 git config --
 git commit -m "value"
 git log
-git rm
+git rm --cached <filename>
 git branch -b branchname
 git branch -D branchname
 git push <repository name><branch name>
 git pull <repository name>
+git clone <receivers id><senders url>
